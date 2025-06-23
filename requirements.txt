@@ -1,0 +1,6 @@
+telethon
+pandas
+nltk
+pillow
+opencv-python
+python-dotenv
